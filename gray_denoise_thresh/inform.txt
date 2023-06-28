@@ -1,0 +1,1 @@
+Here gray_denoised threshold images are stored

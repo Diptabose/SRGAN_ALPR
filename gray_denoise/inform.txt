@@ -1,0 +1,1 @@
+Here gray denoise images are stored

@@ -1,0 +1,683 @@
+{
+    "AN10.jpg": {
+      "accuracy": 98.49340866290018,
+      "generated_num": "NOI697U2",
+      "actual_num": "AN01K9412"
+    },
+    "AN2.jpg": {
+      "accuracy": 96.10894941634241,
+      "generated_num": "510AITG3",
+      "actual_num": "AN01D4163"
+    },
+    "AN6.jpg": {
+      "accuracy": 95.26515151515152,
+      "generated_num": "HMGRET0",
+      "actual_num": "AN01H1689"
+    },
+    "AP1.jpg": {
+      "accuracy": 95.41984732824427,
+      "generated_num": "APO5BY7789",
+      "actual_num": "AP05BY7799"
+    },
+    "AP14.jpg": {
+      "accuracy": 98.67986798679867,
+      "generated_num": "AP90AS3445",
+      "actual_num": "AP10AS3445"
+    },
+    "AP15.jpg": {
+      "accuracy": 97.85478547854785,
+      "generated_num": "AP284T5333",
+      "actual_num": "AP28AT5333"
+    },
+    "AP16.jpg": {
+      "accuracy": 99.02597402597402,
+      "generated_num": "PS9ET9ZZ",
+      "actual_num": "AP39GR3492"
+    },
+    "AP18.jpg": {
+      "accuracy": 98.19376026272579,
+      "generated_num": "PTGBSL500",
+      "actual_num": "AP16BS4500"
+    },
+    "AP19.jpg": {
+      "accuracy": 96.75090252707581,
+      "generated_num": "JPQSM762",
+      "actual_num": "AP04M7627"
+    },
+    "AP24.jpg": {
+      "accuracy": 95.18459069020867,
+      "generated_num": "AP07AD555S",
+      "actual_num": "AP07AD5555"
+    },
+    "AP30.jpg": {
+      "accuracy": 98.08917197452229,
+      "generated_num": "AP310T9378",
+      "actual_num": "AP31DT9378"
+    },
+    "AP44.jpg": {
+      "accuracy": 95.76271186440678,
+      "generated_num": "AP3TBL4935",
+      "actual_num": "AP318L4935"
+    },
+    "AP45.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "AP31BL2833",
+      "actual_num": "AP31BL2833"
+    },
+    "AP46.jpg": {
+      "accuracy": 98.99328859060402,
+      "generated_num": "AP3IC52511",
+      "actual_num": "AP31CS2511"
+    },
+    "AP7.jpg": {
+      "accuracy": 99.66996699669967,
+      "generated_num": "AP31BL8658",
+      "actual_num": "AP31BL8656"
+    },
+    "AP8.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "AP16DP7065",
+      "actual_num": "AP16DP7065"
+    },
+    "AR6.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "AR168272",
+      "actual_num": "AR168272"
+    },
+    "AS26.jpg": {
+      "accuracy": 95.59633027522936,
+      "generated_num": "5AS067847",
+      "actual_num": "AS06Z0841"
+    },
+    "BR10.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "BR32PA6558",
+      "actual_num": "BR32PA6558"
+    },
+    "CG10.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "CG22H7740",
+      "actual_num": "CG22H7740"
+    },
+    "CG12.jpg": {
+      "accuracy": 96.7741935483871,
+      "generated_num": "CG12A61130",
+      "actual_num": "CG12AG1130"
+    },
+    "CG17.jpg": {
+      "accuracy": 97.5328947368421,
+      "generated_num": "CEE7HA2629",
+      "actual_num": "CG07MA2529"
+    },
+    "CG21.jpg": {
+      "accuracy": 95.04,
+      "generated_num": "COAFIJ5OA",
+      "actual_num": "CG04FJ5834"
+    },
+    "DL13.jpg": {
+      "accuracy": 97.82608695652173,
+      "generated_num": "DL72CJ9823",
+      "actual_num": "DL12CJ9823"
+    },
+    "DL26.jpg": {
+      "accuracy": 95.54455445544554,
+      "generated_num": "DLI1CA4900",
+      "actual_num": "DL11CA4900"
+    },
+    "DL3.jpg": {
+      "accuracy": 98.29457364341086,
+      "generated_num": "OL8CAU6883",
+      "actual_num": "DL8CAU6883"
+    },
+    "DL35.jpg": {
+      "accuracy": 97.65625,
+      "generated_num": "DLBCBS5881",
+      "actual_num": "DL3CBS5881"
+    },
+    "DL38.jpg": {
+      "accuracy": 98.34426229508196,
+      "generated_num": "DL4CA03231",
+      "actual_num": "DL4CAQ3231"
+    },
+    "DL5.jpg": {
+      "accuracy": 98.56,
+      "generated_num": "DL1ZCN8660",
+      "actual_num": "DL12CN8660"
+    },
+    "DN1.jpg": {
+      "accuracy": 98.24812030075188,
+      "generated_num": "DW09H2191",
+      "actual_num": "DN09H2191"
+    },
+    "GA5.jpg": {
+      "accuracy": 95.58011049723757,
+      "generated_num": "GA0IE5947",
+      "actual_num": "GA01E5947"
+    },
+    "GA9.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "GA06E3855",
+      "actual_num": "GA06E3855"
+    },
+    "GJ11.jpg": {
+      "accuracy": 96.24796084828712,
+      "generated_num": "JOGHS1855",
+      "actual_num": "GJ06HS1855"
+    },
+    "GJ13.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "GJ06KP8508",
+      "actual_num": "GJ06KP8508"
+    },
+    "GJ14.jpg": {
+      "accuracy": 95.08716323296355,
+      "generated_num": "GJO6DG9355",
+      "actual_num": "GJ06DG9355"
+    },
+    "GJ17.jpg": {
+      "accuracy": 96.50582362728785,
+      "generated_num": "6J060037121",
+      "actual_num": "GJ06DQ3712"
+    },
+    "GJ18.jpg": {
+      "accuracy": 95.9375,
+      "generated_num": "GJQ1PN4254",
+      "actual_num": "GJ01RN4259"
+    },
+    "GJ21.jpg": {
+      "accuracy": 99.32088285229203,
+      "generated_num": "66047C02526",
+      "actual_num": "GJ12CG2526"
+    },
+    "GJ24.jpg": {
+      "accuracy": 97.89303079416531,
+      "generated_num": "70J23C08798",
+      "actual_num": "GJ23CC8798"
+    },
+    "GJ6.jpg": {
+      "accuracy": 97.04433497536947,
+      "generated_num": "GJ06FKZ977",
+      "actual_num": "GJ06FK2977"
+    },
+    "GJ8.jpg": {
+      "accuracy": 98.18441971383149,
+      "generated_num": "GJIGCH9827",
+      "actual_num": "GJ16CH9827"
+    },
+    "google1.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "AN0074AP29",
+      "actual_num": "AP29AN0074"
+    },
+    "google2.jpg": {
+      "accuracy": 98.889,
+      "generated_num": "WB06J715B",
+      "actual_num": "WB06J7158"
+    },
+    "HP11.jpg": {
+      "accuracy": 96.94244604316546,
+      "generated_num": "HP7H77977",
+      "actual_num": "HP12H7917"
+    },
+    "HP12.jpg": {
+      "accuracy": 99.35,
+      "generated_num": "HP36E333O",
+      "actual_num": "HP36E3330"
+    },
+    "HP13.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HP34C8986",
+      "actual_num": "HP34C8986"
+    },
+    "HP21.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HPB408992",
+      "actual_num": "HP40B8992"
+    },
+    "HP22.jpg": {
+      "accuracy": 99.43714821763602,
+      "generated_num": "HP67B3380",
+      "actual_num": "HP64B3380"
+    },
+    "HP3.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HP666807",
+      "actual_num": "HP666807"
+    },
+    "HP7.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HP12C3766",
+      "actual_num": "HP12C3766"
+    },
+    "HP8.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HP719898",
+      "actual_num": "HP719898"
+    },
+    "HR1.jpg": {
+      "accuracy": 97.89983844911147,
+      "generated_num": "HR26BD8176",
+      "actual_num": "HR26BQ8176"
+    },
+    "HR10.jpg": {
+      "accuracy": 97.25806451612902,
+      "generated_num": "R26BY48127",
+      "actual_num": "HR26BY4812"
+    },
+    "HR13.jpg": {
+      "accuracy": 96.18441971383149,
+      "generated_num": "HR5IAQ0911",
+      "actual_num": "HR51AQ0911"
+    },
+    "HR19.jpg": {
+      "accuracy": 99.51923076923077,
+      "generated_num": "HR29M0L933",
+      "actual_num": "HR29AQ4939"
+    },
+    "HR20.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "HR26EJ7668",
+      "actual_num": "HR26EJ7668"
+    },
+    "HR22.jpg": {
+      "accuracy": 97.50889679715303,
+      "generated_num": "LBDGG8370",
+      "actual_num": "HR09G8378"
+    },
+    "HR8.jpg": {
+      "accuracy": 99.63570127504553,
+      "generated_num": "HR20X8232",
+      "actual_num": "HR20X8432"
+    },
+    "JH11.jpg": {
+      "accuracy": 98.29351535836177,
+      "generated_num": "JHOBL521C",
+      "actual_num": "JH01BC5210"
+    },
+    "JH12.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "JH01AX5392",
+      "actual_num": "JH01AX5392"
+    },
+    "JH14.jpg": {
+      "accuracy": 98.68204283360791,
+      "generated_num": "IMQOV1406",
+      "actual_num": "JH10BV1496"
+    },
+    "JH6.jpg": {
+      "accuracy": 99.82905982905983,
+      "generated_num": "RHL24H05O",
+      "actual_num": "JH02AH0750"
+    },
+    "JH8.jpg": {
+      "accuracy": 97.54716981132076,
+      "generated_num": "JH04C710A",
+      "actual_num": "JH04C7104"
+    },
+    "JK11.jpg": {
+      "accuracy": 98.67172675521822,
+      "generated_num": "JOZD7730",
+      "actual_num": "JK03D7750"
+    },
+    "JK12.jpg": {
+      "accuracy": 99.65870307167235,
+      "generated_num": "JKO1502147",
+      "actual_num": "JK01AD3147"
+    },
+    "JK9.jpg": {
+      "accuracy": 96.58119658119658,
+      "generated_num": "JK02C00461",
+      "actual_num": "JK02CD0461"
+    },
+    "KA12.jpg": {
+      "accuracy": 99.83108108108108,
+      "generated_num": "KA0ZMF3336",
+      "actual_num": "KA02MF3336"
+    },
+    "KA16.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "KA03NC7167",
+      "actual_num": "KA03NC7167"
+    },
+    "KA18.jpg": {
+      "accuracy": 99.26739926739927,
+      "generated_num": "AULMX317",
+      "actual_num": "KA04MK312"
+    },
+    "KL11.jpg": {
+      "accuracy": 97.01492537313433,
+      "generated_num": "VL060JS0D",
+      "actual_num": "KL0BBJ5001"
+    },
+    "KL15.jpg": {
+      "accuracy": 96.84601113172542,
+      "generated_num": "KL4366619",
+      "actual_num": "KL43G6619"
+    },
+    "KL9.jpg": {
+      "accuracy": 97.2027972027972,
+      "generated_num": "KL76049803",
+      "actual_num": "KL16U8863"
+    },
+    "MH1.jpg": {
+      "accuracy": 99.49409780775717,
+      "generated_num": "JIH0UAB86",
+      "actual_num": "MH06AB8620"
+    },
+    "MH12.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "MH12NJ5838",
+      "actual_num": "MH12NJ5838"
+    },
+    "MH16.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "MH12GR862",
+      "actual_num": "MH12GR862"
+    },
+    "MH17.jpg": {
+      "accuracy": 97.8688524590164,
+      "generated_num": "MHTBT7906",
+      "actual_num": "MH01BT7906"
+    },
+    "MH2.jpg": {
+      "accuracy": 95.34883720930233,
+      "generated_num": "7HGENR2798",
+      "actual_num": "MH48AK2798"
+    },
+    "MH20.jpg": {
+      "accuracy": 95.65217391304348,
+      "generated_num": "MHI2KU7652",
+      "actual_num": "MH12KJ7659"
+    },
+    "MH21.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "MH04DR8508",
+      "actual_num": "MH04DR8508"
+    },
+    "MH3.jpg": {
+      "accuracy": 97.23127035830619,
+      "generated_num": "VIH484C624",
+      "actual_num": "MH48AC6244"
+    },
+    "MH6.jpg": {
+      "accuracy": 99.81378026070763,
+      "generated_num": "MH47N0713",
+      "actual_num": "MH47N0712"
+    },
+    "MH8.jpg": {
+      "accuracy": 95.06369426751591,
+      "generated_num": "MHO2DN7410",
+      "actual_num": "MH02DN7410"
+    },
+    "ML17.jpg": {
+      "accuracy": 96.40933572710951,
+      "generated_num": "FM05057531",
+      "actual_num": "ML05L5154"
+    },
+    "ML19.jpg": {
+      "accuracy": 97.70554493307839,
+      "generated_num": "AL04C0056",
+      "actual_num": "ML04C0056"
+    },
+    "ML21.jpg": {
+      "accuracy": 98.33641404805915,
+      "generated_num": "DL05J3288",
+      "actual_num": "ML05J3288"
+    },
+    "ML23.jpg": {
+      "accuracy": 99.26605504587155,
+      "generated_num": "ML05R1934",
+      "actual_num": "ML05R1934"
+    },
+    "ML27.jpg": {
+      "accuracy": 95.06398537477148,
+      "generated_num": "HL0SK949",
+      "actual_num": "ML05K9494"
+    },
+    "ML29.jpg": {
+      "accuracy": 99.25650557620817,
+      "generated_num": "ML04047J8",
+      "actual_num": "ML04C4738"
+    },
+    "ML36.jpg": {
+      "accuracy": 97.48549323017409,
+      "generated_num": "ALDBT100",
+      "actual_num": "ML08B1100"
+    },
+    "ML38.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "ML064696",
+      "actual_num": "ML064696"
+    },
+    "ML39.jpg": {
+      "accuracy": 96.29629629629629,
+      "generated_num": "MI0566098",
+      "actual_num": "ML05G6098"
+    },
+    "ML5.jpg": {
+      "accuracy": 96.01518026565465,
+      "generated_num": "AL0504578",
+      "actual_num": "ML05D0571"
+    },
+    "ML7.jpg": {
+      "accuracy": 98.93162393162393,
+      "generated_num": "HL069642",
+      "actual_num": "ML069642"
+    },
+    "MN5.jpg": {
+      "accuracy": 96.58273381294964,
+      "generated_num": "HNU165795",
+      "actual_num": "MN01G5395"
+    },
+    "MP10.jpg": {
+      "accuracy": 95.57661927330173,
+      "generated_num": "MPOBCA6293",
+      "actual_num": "MP08CA6293"
+    },
+    "MP5.jpg": {
+      "accuracy": 95.20123839009288,
+      "generated_num": "MP2OTA0919",
+      "actual_num": "MP20TA0919"
+    },
+    "OD24.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "OD02J0435",
+      "actual_num": "OD02J0435"
+    },
+    "OD9.jpg": {
+      "accuracy": 98.51851851851852,
+      "generated_num": "O033126167",
+      "actual_num": "OD33L2616"
+    },
+    "PB10.jpg": {
+      "accuracy": 98.0,
+      "generated_num": "PB77BN6101",
+      "actual_num": "PB11BN6101"
+    },
+    "PB30.jpg": {
+      "accuracy": 97.40680713128039,
+      "generated_num": "PBODLJ824",
+      "actual_num": "PB08DY4824"
+    },
+    "PY15.jpg": {
+      "accuracy": 99.63768115942028,
+      "generated_num": "PY05A8359",
+      "actual_num": "PY05A8339"
+    },
+    "PY7.jpg": {
+      "accuracy": 95.68788501026694,
+      "generated_num": "BY036923",
+      "actual_num": "PY036993"
+    },
+    "PY9.jpg": {
+      "accuracy": 98.9648033126294,
+      "generated_num": "PY055357",
+      "actual_num": "PY055353"
+    },
+    "RJ10.jpg": {
+      "accuracy": 95.28301886792453,
+      "generated_num": "RJT4CH3730",
+      "actual_num": "RJ14CM3730"
+    },
+    "RJ2.jpg": {
+      "accuracy": 95.9375,
+      "generated_num": "SHY0JV4T4",
+      "actual_num": "RJ14CW4115"
+    },
+    "RJ5.jpg": {
+      "accuracy": 99.50738916256158,
+      "generated_num": "RJICF58O7",
+      "actual_num": "RJ14CF5807"
+    },
+    "SK1.jpg": {
+      "accuracy": 97.89644012944983,
+      "generated_num": "SK01P42969",
+      "actual_num": "SK01PA2969"
+    },
+    "SK11.jpg": {
+      "accuracy": 99.81617647058823,
+      "generated_num": "2K02P40T8",
+      "actual_num": "SK02P1078"
+    },
+    "SK3.jpg": {
+      "accuracy": 97.06840390879479,
+      "generated_num": "SKO1PA7708",
+      "actual_num": "SK01PA7708"
+    },
+    "SK6.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "SK04P1320",
+      "actual_num": "SK04P1320"
+    },
+    "SK9.jpg": {
+      "accuracy": 96.94244604316546,
+      "generated_num": "SK0778797",
+      "actual_num": "SK01T8791"
+    },
+    "TN1.jpg": {
+      "accuracy": 98.75776397515527,
+      "generated_num": "TH63BY7954",
+      "actual_num": "TN63BV7954"
+    },
+    "TN6.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "TN19F0816",
+      "actual_num": "TN19F0816"
+    },
+    "TN8.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "TN07AP0659",
+      "actual_num": "TN07AP0659"
+    },
+    "TR3.jpg": {
+      "accuracy": 99.45652173913044,
+      "generated_num": "JRO2L45S",
+      "actual_num": "TR02L0569"
+    },
+    "TS1.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "TS08FQ1262",
+      "actual_num": "TS08FQ1262"
+    },
+    "TS13.jpg": {
+      "accuracy": 95.89905362776025,
+      "generated_num": "T816ES0894",
+      "actual_num": "TS15ES0894"
+    },
+    "TS3.jpg": {
+      "accuracy": 95.42097488921713,
+      "generated_num": "TSO9EZ9293",
+      "actual_num": "TS09EZ9293"
+    },
+    "TS4.jpg": {
+      "accuracy": 95.72271386430678,
+      "generated_num": "TSCIEZ3296",
+      "actual_num": "TS09EZ9296"
+    },
+    "UK10.jpg": {
+      "accuracy": 96.91056910569105,
+      "generated_num": "UKC7AA2432",
+      "actual_num": "UK07AA2432"
+    },
+    "UK4.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "UP23K0008",
+      "actual_num": "UP23K0008"
+    },
+    "UP11.jpg": {
+      "accuracy": 95.61128526645768,
+      "generated_num": "WPSZAK176",
+      "actual_num": "UP53AK1161"
+    },
+    "UP14.jpg": {
+      "accuracy": 95.5177743431221,
+      "generated_num": "UP486S16BD",
+      "actual_num": "UP16BD4866"
+    },
+    "UP16.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "UPZ2K07325",
+      "actual_num": "UP32KW7325"
+    },
+    "UP17.jpg": {
+      "accuracy": 98.38709677419355,
+      "generated_num": "UP32CX3Z0",
+      "actual_num": "UP32CX3400"
+    },
+    "UP19.jpg": {
+      "accuracy": 99.46332737030411,
+      "generated_num": "ULLLULU",
+      "actual_num": "UP45Q3028"
+    },
+    "UP20.jpg": {
+      "accuracy": 96.75324675324676,
+      "generated_num": "UP1AK868L",
+      "actual_num": "UP14AK8604"
+    },
+    "UP23.jpg": {
+      "accuracy": 96.94533762057877,
+      "generated_num": "UZ8EQ04A9",
+      "actual_num": "UP78ED0449"
+    },
+    "UP24.jpg": {
+      "accuracy": 99.47275922671353,
+      "generated_num": "UP21273221",
+      "actual_num": "UP27Z7322"
+    },
+    "UP29.jpg": {
+      "accuracy": 97.69736842105263,
+      "generated_num": "UPI4KE394",
+      "actual_num": "UP14AF3804"
+    },
+    "UP3.jpg": {
+      "accuracy": 95.20123839009288,
+      "generated_num": "UP8OFA1666",
+      "actual_num": "UP80FA1666"
+    },
+    "WB15.jpg": {
+      "accuracy": 99.67897271268058,
+      "generated_num": "4B72172987L",
+      "actual_num": "WB12AX2987"
+    },
+    "WB19.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "WB061061",
+      "actual_num": "WB061061"
+    },
+    "WB2.jpg": {
+      "accuracy": 95.76427255985267,
+      "generated_num": "HBZM8447",
+      "actual_num": "WB02M8447"
+    },
+    "WB20.jpg": {
+      "accuracy": 96.67359667359668,
+      "generated_num": "WR171717",
+      "actual_num": "WB171717"
+    },
+    "WB21.jpg": {
+      "accuracy": 100.0,
+      "generated_num": "WB02W9S3S",
+      "actual_num": "WB02W9535"
+    }
+  }
+  

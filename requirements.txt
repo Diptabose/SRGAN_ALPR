@@ -1,0 +1,6 @@
+keras
+opencv-python
+torch
+torchvision
+torchaudio
+easyocr
